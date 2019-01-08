@@ -6,7 +6,7 @@ export default {
 
   effects: {
     *effectsDemo(_, { call, put }) {
-      const { status, data } = yield call(userApi.demo, {});
+      const { status, data } = yield call(demo, {});
       if (status === "ok") {
         yield put({
           type: "save",
