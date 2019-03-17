@@ -10,10 +10,12 @@ npm install
 
 npm run dev:weapp
 
-# pages模版快速生成
+＃ pages模版快速生成
+
+npm run tep `文件名`
 
 ```
-npm run tep `文件名`
+
 
 # 目录结构
 
