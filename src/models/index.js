@@ -1,4 +1,4 @@
-import cart from "../pages/cart/model";
+import cart from "./cart;
 import home from "./home";
 import user from "./user";
 
