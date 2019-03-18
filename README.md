@@ -2,6 +2,10 @@
 
 React + taro + dva + taro-ui
 
+[taro](https://github.com/NervJS/taro)
+[dva](https://github.com/dvajs/dva)
+[taro-ui](https://github.com/NervJS/taro-ui)
+
 ## 项目运行
 
 ```
